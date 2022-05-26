@@ -1,1 +1,1 @@
-adds execute permission to all
+add executes permision to all

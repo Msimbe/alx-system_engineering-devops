@@ -1,1 +1,1 @@
-Add execution to all 
+adds execute permission to all subdirectories

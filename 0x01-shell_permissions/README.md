@@ -1,1 +1,1 @@
-groups the current user is part of
+change the ownership of file

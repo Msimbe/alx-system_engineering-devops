@@ -1,1 +1,1 @@
-a script that switches the current user
+My name is betty

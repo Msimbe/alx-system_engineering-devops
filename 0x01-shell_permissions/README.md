@@ -1,3 +1,1 @@
-script that sets the mode of the file hello to this:
-
--rwxr-x-wx
+script that changes the group owner to school for the file hello

@@ -1,1 +1,1 @@
-script that adds execution permission to the owner, the group owner and the other users, to the file hello
+script that changes the owner and the group owner of _hello to vincent and staff respectively.
